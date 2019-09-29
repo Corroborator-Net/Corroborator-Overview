@@ -12,8 +12,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [How Corroborator Works](#how-corroborator-works)
-  - [Our Tools](#our-tools)
+- [Our Tools](#our-tools)
 - [Demo](#demo)
   - [Data Validation](#data-validation)
   - [Open Validation Tools](#open-validation-tools)
@@ -34,13 +33,7 @@ A Trustless data verification system:
 [Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
 
 
-## How Corroborator Works
-
-**TBW**
-- Image App
-- Auditor Interface
-
-### Our Tools
+## Our Tools
 
 | Project | Link | Completeness |
 |----------|---------|--------------|
