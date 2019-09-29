@@ -53,7 +53,14 @@ A Trustless data verification system:
 
 Using **Corro**borator is easy. Here we provide a sample image that we want to audit with our system. 
 
-**The file** TODO - ADD ME!!
+1. Download the [Demo Picture](QmVbHUYa4T5XH7Bu9oRRHAPWeAkFLqUHP2YervPWF1xdYH.jpeg)
+2. Check the downloaded image CID (`QmVbHUYa4T5XH7Bu9oRRHAPWeAkFLqUHP2YervPWF1xdYH`) matches what you can obtain on an IPFS gateway and/or the IPFS desktop client (See [Open Validation Tools](#open-validation-tools))
+    - Use a *gateway* to see the file by CID ([here is one](https://gateway.pinata.cloud/ipfs/QmVbHUYa4T5XH7Bu9oRRHAPWeAkFLqUHP2YervPWF1xdYH))
+    - Use the Desktop Client **files explorer** to add/upload the demo file and cross check that the file had **the same CID** generated as the demo file you downloded or viewed at the gateway.
+
+3. Verify the CID was published on the blockchain- in our case the transaction this demo was published can be [found here](https://rinkeby.etherscan.io/tx/0xf57277877c5d9a1546c27eac92ed4e6024bb667366f89220478db5f0bec55307)
+    - 
+
 
 ### Data Validation
 
