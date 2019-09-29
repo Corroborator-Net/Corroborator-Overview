@@ -69,10 +69,11 @@ Given the Data's *metadata*, one is able to extract and verify a *signing athori
 
 | Project | Link | What it Does |
 |----------|---------|--------------|
-| Ethereum Block Explorer |https://blockchair.com/ | Figerprint & Data Provenance  |
+| Ethereum MAINNET Block Explorer | https://blockchair.com/ | Figerprint & Data Provenance (Production)|
+| Ethereum RINKEBY TESTNET Block Explorer | https://rinkeby.etherscan.io/ | Figerprint & Data Provenance (Testing)|
 | IPFS Gateway | https://gateway.pinata.cloud/ipfs/<PROVIDE_CID_FINGERPRINT> | Fingerprint & Data Validation (online)|
 | IPFS Desktop | https://github.com/ipfs-shipyard/ipfs-desktop | Fingerprint & Data cross-validation Client (download)|
-
+| Text Difference Tool | https://www.diffchecker.com/ | Crosscheck CIDs and Hashes|
 
 ## License
 
