@@ -28,6 +28,8 @@ A Trustless data verification system:
 
 (To be Added) ~[![Watch a video demo](img/TBD.png)](https://www.youtube.com/)~
 
+[Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
+
 
 ## How Corroborator Works
 
