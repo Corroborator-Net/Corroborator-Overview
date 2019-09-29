@@ -1,7 +1,7 @@
-# Corroaborator
+# Corroborator
 > Open &amp; Trustless Data Verification
 
-Welcome to Corroaborator! (To be Added) ~[Watch a video demo](https://www.youtube.com/)~  to get started.
+Welcome to Corroborator! (To be Added) ~[Watch a video demo](https://www.youtube.com/)~  to get started.
 
 ## Table of Contents
 
