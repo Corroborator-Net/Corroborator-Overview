@@ -1,2 +1,42 @@
 # Corroaborator
-Open &amp; Trustless Data Verification
+> Open &amp; Trustless Data Verification
+
+Welcome to Corroaborator! (To be Added) ~[Watch a video demo](https://www.youtube.com/)~  to get started.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [How Corroborator Works](#how-corroborator-works)
+  - [Codebase](#codebase)
+- [License](#license)
+
+## Overview
+
+How do auditors trust integrity and provenance? 
+*Corroborators* to come to our aid.
+
+A Trustless data verification system:
+- Signed user & device - *cryptographic proof*
+- Fingerprint on public DB - *blockchain*
+- Distributed across auditors  - *hybrid on/offline*
+
+(To be Added) ~[![Watch a video demo](img/TBD.png)](https://www.youtube.com/)~
+
+
+## How Corroborator Works
+
+**TBW**
+- Image App
+- Auditor Interface
+
+### Codebase
+
+| Project | Link | Completeness |
+|----------|---------|--------------|
+| Image App | https://github.com/Corroborator-Net | **PoC** |
+| Auditor Interface | https://github.com/Corroborator-Net | **PoC** |
+| Auditor Smart Contract | https://github.com/Corroborator-Net/ETH-Contract | **PoC** |
+
+## License
+
+MIT
