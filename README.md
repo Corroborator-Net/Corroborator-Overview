@@ -44,9 +44,9 @@ A Trustless data verification system:
 
 | Project | Link | Completeness |
 |----------|---------|--------------|
-| Image App | https://github.com/Corroborator-Net | **PoC** |
+| iOS Image App | https://github.com/Corroborator-Net/Corroborator-iOS  | **PoC** |
 | Auditor Smart Contract | https://github.com/Corroborator-Net/ETH-Contract | **PoC** |
-| Custon Auditor Interface | *N/A - use [Open Validation Tools](#open-validation-tools)* | **TODO** |
+| Custom Auditor Interface | *N/A - use [Open Validation Tools](#open-validation-tools)* | **TODO** |
 
 
 ## Demo
