@@ -54,13 +54,13 @@ A Trustless data verification system:
 Using **Corro**borator is easy. Here we provide a sample image that we want to audit with our system. 
 
 1. Download the [Demo Picture](QmVbHUYa4T5XH7Bu9oRRHAPWeAkFLqUHP2YervPWF1xdYH.jpeg)
-2. Check the downloaded image CID (`QmVbHUYa4T5XH7Bu9oRRHAPWeAkFLqUHP2YervPWF1xdYH`) matches what you can obtain on an IPFS gateway and/or the IPFS desktop client (See [Open Validation Tools](#open-validation-tools))
+2. Check that the downloaded image CID (`QmVbHUYa4T5XH7Bu9oRRHAPWeAkFLqUHP2YervPWF1xdYH`) matches what you can obtain on an IPFS gateway and/or the IPFS desktop client (See [Open Validation Tools](#open-validation-tools))
     - Use a *gateway* to see the file by CID ([here is one](https://gateway.pinata.cloud/ipfs/QmVbHUYa4T5XH7Bu9oRRHAPWeAkFLqUHP2YervPWF1xdYH))
-    - Use the Desktop Client **files explorer** to add/upload the demo file and cross check that the file had **the same CID** generated as the demo file you downloded or viewed at the gateway.
-
-3. Verify the CID was published on the blockchain- in our case the transaction this demo was published can be [found here](https://rinkeby.etherscan.io/tx/0xf57277877c5d9a1546c27eac92ed4e6024bb667366f89220478db5f0bec55307)
-    - 
-
+    - Use the *Desktop Client* **files explorer** to add/upload the demo file and cross-verify that the file indeed has the same CID generated as the file viewed at a gateway.
+3. Verify the CID was published on the blockchain. The demo file was published [on the rinkeby ethereum testnet ](https://rinkeby.etherscan.io/tx/0xf57277877c5d9a1546c27eac92ed4e6024bb667366f89220478db5f0bec55307)
+  - At the bottom of the page, Click to `show more`
+  - View the `input data` as `UTF-8`. The CID || picture timestamp || location (in that order)  _should_ be apparent there. You can also validate the timestap of the transaction itself ot cross-check the providance of the recorded data.
+  
 
 ### Data Validation
 
