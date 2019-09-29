@@ -46,7 +46,7 @@ A Trustless data verification system:
 |----------|---------|--------------|
 | Image App | https://github.com/Corroborator-Net | **PoC** |
 | Auditor Smart Contract | https://github.com/Corroborator-Net/ETH-Contract | **PoC** |
-| Custon Auditor Interface | *N/A* | **TODO** |
+| Custon Auditor Interface | *N/A - use [Open Validation Tools](#open-validation-tools)* | **TODO** |
 
 
 ## Demo
@@ -63,7 +63,7 @@ Given the Data's *metadata*, one is able to extract and verify a *signing athori
 - The signing athority's key
 - The fingerprint published
 - The timestamp of the fingerprint addition to the blockchain
-9See [Open Validation Tools](#open-validation-tools) for options)
+(See [Open Validation Tools](#open-validation-tools) for options)
 
 ### Open Validation Tools
 
