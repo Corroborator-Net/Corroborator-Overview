@@ -5,7 +5,7 @@
 
 #### Welcome to Corroborator! (To be Added) ~[Watch a video demo](https://www.youtube.com/)~  to get started.
 
-#### [Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
+### [Overview Presentation Slides](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
 
 ---
 
