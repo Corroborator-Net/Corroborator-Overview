@@ -3,7 +3,7 @@
 
 ---
 
-#### Welcome to Corroborator! (To be Added) ~[Watch a video demo](https://www.youtube.com/)~  to get started.
+#### Welcome to Corroborator! (To be Added) [Watch a video demo](https://youtu.be/XFNveoZJn0c)  to get started.
 
 ### [Overview Presentation Slides](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
 
@@ -28,7 +28,7 @@ A Trustless data verification system:
 - Fingerprint on public DB - *blockchain*
 - Distributed across auditors  - *hybrid on/offline*
 
-(To be Added) ~[![Watch a video demo](img/TBD.png)](https://www.youtube.com/)~
+[Watch a video demo](https://youtu.be/XFNveoZJn0c)
 
 [Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
 
