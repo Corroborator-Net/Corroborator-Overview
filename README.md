@@ -3,7 +3,7 @@
 
 ---
 
-#### Welcome to Corroborator! (To be Added) [Watch a video demo](https://youtu.be/XFNveoZJn0c)  to get started.
+#### Welcome to Corroborator!
 
 ### [Overview Presentation Slides](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
 
