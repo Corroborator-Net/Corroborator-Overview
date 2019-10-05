@@ -28,7 +28,7 @@ A Trustless data verification system:
 - Fingerprint on public DB - *blockchain*
 - Distributed across auditors  - *hybrid on/offline*
 
-[Watch a video demo](https://youtu.be/XFNveoZJn0c)
+
 
 [Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
 
