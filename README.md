@@ -39,7 +39,7 @@ A Trustless data verification system:
 |----------|---------|--------------|
 | iOS Image App | https://github.com/Corroborator-Net/Corroborator-iOS  | **PoC** |
 | Auditor Smart Contract | https://github.com/Corroborator-Net/ETH-Contract | **PoC** |
-| Custom Auditor Interface | https://github.com/Corroborator-Net/Corroborator-Auditor or use [Open Validation Tools](#open-validation-tools)* | **Pre-PoC** |
+| Custom Auditor Interface | https://github.com/Corroborator-Net/Corroborator-Auditor </br> Or use [Open Validation Tools](#open-validation-tools) | **Pre-PoC** |
 
 
 ## Demo
