@@ -1,5 +1,5 @@
 # Corroborator
-> Open &amp; Trustless Data Verification
+_Open &amp; Trustless Data Verification_
 
 ---
 
@@ -24,13 +24,11 @@ How do auditors trust integrity and provenance?
 **Corro**borators to come to our aid.
 
 A Trustless data verification system:
-- Signed user & device - *cryptographic proof*
-- Fingerprint on public DB - *blockchain*
-- Distributed across auditors  - *hybrid on/offline*
+- Cryptographicly signed image data and metadata (user,device, location, ect.) - *at time of capture*
+- All data distributed across users & auditors  - _**optional** hybrid on/offline mesh_
+- Fingerprint of data logged on (public or private) database - *secure blockchain*
 
-
-
-[Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
+#### :arrow_right: [Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
 
 
 ## Our Tools
@@ -39,7 +37,7 @@ A Trustless data verification system:
 |----------|---------|--------------|
 | iOS Image App | https://github.com/Corroborator-Net/Corroborator-iOS  | **PoC** |
 | Auditor Smart Contract | https://github.com/Corroborator-Net/ETH-Contract | **PoC** |
-| Custom Auditor Interface | https://github.com/Corroborator-Net/Corroborator-Auditor </br> Or use [Open Validation Tools](#open-validation-tools) | **Pre-PoC** |
+| Custom Auditor Interface | https://github.com/Corroborator-Net/Corroborator-Auditor </br> Or other [Open Source 3rd Party Validation Tools](#open-validation-tools) | **PoC** |
 
 
 ## Demo
