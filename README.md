@@ -34,6 +34,8 @@ A Trustless data verification system:
 
 Using **Corro**borator is _easy_. See our app repositories from [Our tools](#our-tools) above for **guided walkthroughs and demos** of the applications.
 
+***NOTE:** For the demo, a deployed audit smart contract on the Ethereum Rinkbey Testnet  is ready for you ([details here](https://github.com/Corroborator-Net/Corroborator-Contract)). This is **hard coded** in our app at the moment! If you want a new audit log created, please reach out to us.*
+
 ### Open Source Tools Used
 | Tool | Description |
 |----------|---------|
