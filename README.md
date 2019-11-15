@@ -32,7 +32,7 @@ A Trustless data verification system:
 | _Reporter_: iOS Image Capture App | https://github.com/Corroborator-Net/Corroborator-Reporter | **PoC** |
 | _Auditor_: Verfication Webapp Platform | https://github.com/Corroborator-Net/Corroborator-Auditor | **PoC** |
 
-Using **Corro**borator is _easy_. See our app repositories from [Our tools](#our-tools) above for guided walkthroughs of the applications. 
+Using **Corro**borator is _easy_. See our app repositories from [Our tools](#our-tools) above for **guided walkthroughs and demos** of the applications.
 
 ### Open Source Tools Used
 | Tool | Description |
