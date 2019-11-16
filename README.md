@@ -20,9 +20,10 @@ How do auditors trust **image integrity and provenance**?
 - All data distributed across users & auditors  - _**optional** hybrid on/offline mesh_
 - Auditor interface for fool-proof image data integrity - *multiple cross-verififications* 
 
-#### :arrow_right: [Presentation Slides Overview](https://docs.google.com/presentation/d/1oSWLNg2lRhOPF8C443hx2zEwzoMVN6uKILMJgBBiU50/)
-- Presenter notes are provided in the slides for a **narative of the presentation**.
-- A **video recording** of the earliest presentation is also avalible on [YouTube](https://www.youtube.com/watch?v=XFNveoZJn0c)
+### :arrow_right: A Narrated Presentation of the earliest presentation is also avalible on [YouTube](https://www.youtube.com/watch?v=b3cdELStbW4)
+
+Detailed presenter notes are provided in the [presentation slides](https://docs.google.com/presentation/d/1oSWLNg2lRhOPF8C443hx2zEwzoMVN6uKILMJgBBiU50/).
+
 
 ## Corroborator Applications
 
