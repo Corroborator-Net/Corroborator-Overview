@@ -19,10 +19,9 @@ A Trustless data verification system:
 - All data distributed across users & auditors  - _**optional** hybrid on/offline mesh_
 - Fingerprint of data logged on (public or private) database - *secure blockchain*
 
-#### :arrow_right: [Presentation Slides Overview](https://docs.google.com/presentation/d/1tid3rLwj4DxNinqXEinlbSFWoJ9HQ7RwI4ALeHtcZn8/edit?usp=sharing)
+#### :arrow_right: [Presentation Slides Overview](https://docs.google.com/presentation/d/1oSWLNg2lRhOPF8C443hx2zEwzoMVN6uKILMJgBBiU50/)
 - Presenter notes are provided in the slides for a **narative of the presentation**.
 - A **video recording** of the earliest presentation is also avalible on [YouTube](https://www.youtube.com/watch?v=XFNveoZJn0c)
-
 
 ## Corroborator Applications
 
