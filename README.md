@@ -3,14 +3,11 @@ _Open &amp; Trustless Data Verification_
 
 ---
 
-## Table of Contents
+### :movie_camera: [A Narrated Presentation Avalible on YouTube](https://www.youtube.com/watch?v=b3cdELStbW4) :movie_camera:
 
-- [Overview](#overview)
-- [Corroborator Applications](#corroborator-applications)
-- [Open Source Tools Used](#open-source-tools-used)
-- [Roadmap](#roadmap)
+Detailed presenter notes are provided in the [presentation slides](https://docs.google.com/presentation/d/1oSWLNg2lRhOPF8C443hx2zEwzoMVN6uKILMJgBBiU50/).
 
-## Overview
+---
 
 How do auditors trust **image integrity and provenance**?
 
@@ -20,9 +17,7 @@ How do auditors trust **image integrity and provenance**?
 - All data distributed across users & auditors  - _**optional** hybrid on/offline mesh_
 - Auditor interface for fool-proof image data integrity - *multiple cross-verififications* 
 
-### :movie_camera: [A Narrated Presentation Avalible on YouTube](https://www.youtube.com/watch?v=b3cdELStbW4) :movie_camera:
 
-Detailed presenter notes are provided in the [presentation slides](https://docs.google.com/presentation/d/1oSWLNg2lRhOPF8C443hx2zEwzoMVN6uKILMJgBBiU50/).
 
 
 ## Corroborator Applications
