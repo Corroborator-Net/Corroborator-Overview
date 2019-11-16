@@ -12,13 +12,13 @@ _Open &amp; Trustless Data Verification_
 
 ## Overview
 
-How do auditors trust integrity and provenance? 
-**Corro**borators to come to our aid.
+How do auditors trust **image integrity and provenance**?
 
-A Trustless data verification system:
-- Cryptographicly signed image data and metadata (user,device, location, ect.) - *at time of capture*
+**Corro**borator is a simple, easy to use, yet extremely robust data verification system:
+- Cryptographically signed and secured image and it's metadata (user,device, location, ect.) - *at time of capture*
+- Fingerprint of data logged indelibly on (public or private) distributed database - *a secure blockchain*
 - All data distributed across users & auditors  - _**optional** hybrid on/offline mesh_
-- Fingerprint of data logged on (public or private) database - *secure blockchain*
+- Auditor interface for fool-proof image data integrity - *multiple cross-verififications* 
 
 #### :arrow_right: [Presentation Slides Overview](https://docs.google.com/presentation/d/1oSWLNg2lRhOPF8C443hx2zEwzoMVN6uKILMJgBBiU50/)
 - Presenter notes are provided in the slides for a **narative of the presentation**.
